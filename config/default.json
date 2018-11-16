@@ -1,0 +1,13 @@
+{
+    "port": "4200",
+    "dbConfig":{
+        "username": "test-read",
+        "password": "xnxPp6QfZbCYkY8",
+        "database": "birdietest",
+        "host": "birdie-test.cyosireearno.eu-west-2.rds.amazonaws.com"
+    },
+    "tokenData":{
+        "tokenSecret": "mon secret",
+        "tokenExpiryTime": "7"
+    }
+}
