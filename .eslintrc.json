@@ -1,0 +1,11 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "func-names": 0,
+        "no-param-reassign":["error", { "props": true, "ignorePropertyModificationsFor": ["user"] }],
+        "consistent-return": "off",
+        "import/newline-after-import": "off",
+        "linebreak-style": [0, "error", "windows"],
+        "prefer-destructuring": "off"
+    }
+}
